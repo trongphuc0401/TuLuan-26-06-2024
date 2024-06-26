@@ -1,0 +1,18 @@
+
+ 
+java:S1192B"]Define a constant instead of duplicating this literal "Not number. Please try again" 3 times.(©„÷8¾“â…2J$2e3eb2b8-7ac0-47bc-a3c5-a19d7994b618
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ ´÷8Ğ“â…2J$2e472de6-ba28-408f-b6bf-bf7aa4711466
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûÔÃ£øÿÿÿÿ8à“â…2J$cefaf60d-9124-4074-845b-0cc59bbb1d76
+Ä
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µİ÷ü8ğ“â…2J$3b070a17-932c-4218-a363-7801afdeea0b
+r	java:S106"+Replace this use of System.out by a logger.(ë Ğûÿÿÿÿ8÷“â…2J$d6769400-14b8-4bf5-b52c-8bb13bcd1780
+m	java:S1065"+Replace this use of System.out by a logger.(ü®¤ä8€”â…2J$0379be63-e172-4f25-ba38-a984883c2b4f
+r	java:S1066"+Replace this use of System.out by a logger.(Ùï¼¸ÿÿÿÿÿ8”â…2J$d085305a-1609-46fa-9bd6-fad57bbb37c1
+m	java:S1067"+Replace this use of System.out by a logger.(¼óÒº8Ÿ”â…2J$53cc152a-bffa-4180-8288-52102726b328
+r	java:S106="+Replace this use of System.out by a logger.(Ø©ç»ùÿÿÿÿ8¡”â…2J$82490c64-f1a5-419d-9cec-d9f380c10589
+m	java:S106B"+Replace this use of System.out by a logger.(©„÷8¡”â…2J$47ff85fb-fef7-4ab2-ab25-a0188e4626a8
+r	java:S106L"+Replace this use of System.out by a logger.(§Öãüÿÿÿÿ8£”â…2J$bc95cbc1-257a-401e-a9be-b680cb27ba3e
+m	java:S106Q"+Replace this use of System.out by a logger.(©„÷8£”â…2J$5689b72b-b63d-415a-85b9-9f32e715eec1
+r	java:S106["+Replace this use of System.out by a logger.(ŞİÉüÿÿÿÿ8¤”â…2J$0f49baec-cdd5-470c-a031-89e81c77548a
+m	java:S106`"+Replace this use of System.out by a logger.(©„÷8¤”â…2J$2eea3d34-a098-46cc-a3cc-3cee8d640c5b

@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ ´÷8–Ğ€Ÿ…2J$dbde4f3d-6980-4590-a8ba-896f4482cd0e
+m	java:S106"+Replace this use of System.out by a logger.(õáì‹8£Ğ€Ÿ…2J$16c4ff69-7d69-4585-beb8-632713bbab2c
+m	java:S106%"+Replace this use of System.out by a logger.(Å…œˆ8¤Ğ€Ÿ…2J$94bc5a0b-15db-4339-bfd5-9bab64b0844d
+r	java:S106@"+Replace this use of System.out by a logger.(°Õºòıÿÿÿÿ8¦Ğ€Ÿ…2J$05f8a1db-b9b1-4cd4-af96-9b1808d179d5
+r	java:S106A"+Replace this use of System.out by a logger.(ÀœØùÿÿÿÿ8¦Ğ€Ÿ…2J$fd2eb0df-0d69-4f8c-9fb5-e77873a6e01d
+m	java:S106B"+Replace this use of System.out by a logger.(àÖîï8¦Ğ€Ÿ…2J$e8acd8dd-558d-44a6-8b92-a5f56bcac3e8
+m	java:S106H"+Replace this use of System.out by a logger.(¤€Î©8§Ğ€Ÿ…2J$cb5b2752-64fa-4ef5-9165-749161bb85d6
+m	java:S106M"+Replace this use of System.out by a logger.(©„÷8§Ğ€Ÿ…2J$41eadfb2-634c-4095-aed2-2d1bde0ebac6
+m	java:S106W"+Replace this use of System.out by a logger.(ÇØ˜ß8¨Ğ€Ÿ…2J$4be80036-21c1-4774-99bd-3e0ea9a1fbb7
+m	java:S106\"+Replace this use of System.out by a logger.(©„÷8¨Ğ€Ÿ…2J$0a45cffe-ee03-4e18-a0a0-98e63445ef6f
+Œ
+java:S1128"JRemove this unused import 'vn.edu.likelion.Banking.entity.CurrentAccount'.(£ƒ‹A8©Ğ€Ÿ…2J$7238a623-4a0b-4ef2-991a-52e704320137

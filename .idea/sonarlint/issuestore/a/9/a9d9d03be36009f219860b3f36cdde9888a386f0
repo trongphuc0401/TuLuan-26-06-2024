@@ -1,0 +1,14 @@
+
+¸
+java:S1319"pThe type of "currentAccounts" should be an interface such as "List" rather than the implementation "LinkedList".(žÂÖûüÿÿÿÿ8 µñ–…2J$5fc01e28-eadf-4412-b9cf-43fe85ec49c9
+·
+java:S1319"oThe type of "savingAccounts" should be an interface such as "List" rather than the implementation "LinkedList".(žÂÖûüÿÿÿÿ8¡µñ–…2J$bb7411a7-a44e-43bf-a725-4f66f90a69ab
+³
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ø—¥T8¡¸‚—…2J$6d725da4-6d52-42e8-87fa-a30bee9fdbcb
+¸
+java:S1319"pThe type of "currentAccounts" should be an interface such as "List" rather than the implementation "LinkedList".(ÕÃ´êûÿÿÿÿ8¤¸‚—…2J$9ae90129-b583-4532-8091-52e4226879f4
+¹
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ÌÓÐåþÿÿÿÿ8§¸‚—…2J$643a5b7f-c54e-4724-9db4-58afc4c84587
+·
+java:S1319#"oThe type of "savingAccounts" should be an interface such as "List" rather than the implementation "LinkedList".(‘Õ½Õÿÿÿÿÿ8©¸‚—…2J$48728973-9972-4b4b-92ca-199f38c46b13
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒˆ«Ú8£µñ–…2J$3fa198e4-0684-45b3-b4ac-22dff1bc7b80
